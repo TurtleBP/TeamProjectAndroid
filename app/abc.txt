@@ -1,0 +1,18 @@
+.\gradlew signingReport
+
+
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\anh.pham\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 08:5F:33:0A:9E:3C:F6:48:63:BF:05:10:A7:E3:20:C8
+SHA1: 39:80:4B:55:D0:27:E4:D4:36:31:40:5A:7A:31:E7:C9:DC:56:FD:A6
+SHA-256: 82:C3:93:61:FF:D2:8C:49:31:71:CE:27:9E:20:44:AE:48:7B:DB:BF:2C:94:00:83:87:5B:62:52:E5:03:24:B1
+Valid until: Friday, August 13, 2055
+----------
+
+BUILD SUCCESSFUL in 32s
+1 actionable task: 1 executed
+<=============> 100% EXECUTING [14s]
+PS C:\Users\anh.pham\Desktop\Android\CafeManagerPro_Java\CafeManagerProJava>
